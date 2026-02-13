@@ -1,24 +1,46 @@
-//
-//  ContentView.swift
-//  Enka
-//
-//  Created by のりやまのりを on 2026/02/13.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject private var viewModel = SeafoodStoreViewModel()
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        ZStack {
+            StoreBackgroundView()
+
+            VStack(spacing: 0) {
+                Group {
+                    switch viewModel.appScreen {
+                    case .home:
+                        HomeView(viewModel: viewModel)
+                    case .campaign:
+                        CampaignView(viewModel: viewModel)
+                    case .cart:
+                        CartView(viewModel: viewModel)
+                    case .account:
+                        AccountView(viewModel: viewModel)
+                    case .categoryProducts:
+                        CategoryProductsView(viewModel: viewModel)
+                    case .productDetail:
+                        ProductDetailView(viewModel: viewModel)
+                    case .orderConfirmed:
+                        OrderConfirmedView(viewModel: viewModel)
+                    }
+                }
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+
+                StoreBottomNavBar(appScreen: viewModel.appScreen) { destination in
+                    viewModel.moveTo(destination)
+                }
+                .padding(.top, 10)
+            }
+            .padding(14)
         }
-        .padding()
+        .preferredColorScheme(.light)
     }
 }
 
-#Preview {
-    ContentView()
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
 }

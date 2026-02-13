@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/Enka-primary.dia",
+    "emit-module-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/Enka-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/Enka-primary-emit-module.dia",
+    "pch" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/Enka-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/Enka-primary.swiftdeps"
+  },
+  "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/noriyamanolio/Desktop/Enka/Enka/Enka/ContentView.swift" : {
+    "const-values" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/noriyamanolio/Desktop/Enka/Enka/Enka/EnkaApp.swift" : {
+    "const-values" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.swiftconstvalues",
+    "dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.d",
+    "diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.dia",
+    "index-unit-output-path" : "/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.o",
+    "llvm-bc" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.bc",
+    "object" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.o",
+    "swift-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp.swiftdeps",
+    "swiftmodule" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/EnkaApp~partial.swiftmodule"
+  },
+  "/Users/noriyamanolio/Desktop/Enka/Enka/Enka/Models/SeafoodStoreModels.swift" : {
+    "const-values" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.swiftconstvalues",
+    "dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.d",
+    "diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.dia",
+    "index-unit-output-path" : "/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.o",
+    "llvm-bc" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.bc",
+    "object" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.o",
+    "swift-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels.swiftdeps",
+    "swiftmodule" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreModels~partial.swiftmodule"
+  },
+  "/Users/noriyamanolio/Desktop/Enka/Enka/Enka/ViewModels/SeafoodStoreViewModel.swift" : {
+    "const-values" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.swiftconstvalues",
+    "dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.d",
+    "diagnostics" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.dia",
+    "index-unit-output-path" : "/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.o",
+    "llvm-bc" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.bc",
+    "object" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.o",
+    "swift-dependencies" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel.swiftdeps",
+    "swiftmodule" : "/Users/noriyamanolio/Desktop/Enka/.derived/Build/Intermediates.noindex/Enka.build/Debug-iphonesimulator/Enka.build/Objects-normal/arm64/SeafoodStoreViewModel~partial.swiftmodule"
+  }
+}
